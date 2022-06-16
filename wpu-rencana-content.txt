@@ -1,6 +1,7 @@
 - Java script
   * ES6
   * FRamework javascript
+- Struktur data dasar
 - Php framework
 - Interview
 - Vlogs
