@@ -2,6 +2,7 @@
   * ES6
   * FRamework javascript
     ^ vue
+    ^ REact
 - Struktur data dasar
 - Php framework
   ^ laravel
