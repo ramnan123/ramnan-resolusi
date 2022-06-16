@@ -1,7 +1,10 @@
 - Java script
   * ES6
   * FRamework javascript
+    ^ vue
 - Struktur data dasar
 - Php framework
+  ^ laravel
 - Interview
 - Vlogs
+- phyton
